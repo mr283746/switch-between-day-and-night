@@ -76,7 +76,7 @@ a:hover , li:nth-child(1) > a {
     color: #fff;
     text-transform: uppercase;
     font-size: 25px;
-    transform: translateY(-140px);
+    transform: translateY(-160px);
 }
 .content {
     color: #fff;
